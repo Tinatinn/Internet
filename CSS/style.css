@@ -1,0 +1,19 @@
+img {width: 30%;
+vertical-align: middle; 
+margin-bottom: 2%;
+margin-top: 2%;
+margin-left: 2%;}
+.text, .textt {width: 60%;
+margin-left: 2%;
+display: inline-block;
+vertical-align: middle;}
+.textt { text-align: right; 
+margin-right: 2%;}
+.web {background-color: #f2e8e8;}
+.internet {background-color: #f9f7f7;}
+@media (max-width: 600px;) {
+
+img, .text, .textt { width: 90%;}
+
+}
+
